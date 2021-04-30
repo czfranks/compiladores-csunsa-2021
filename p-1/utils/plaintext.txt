@@ -1,0 +1,6 @@
+ARRAY arr = {1, 21, 3, 24, 5}
+VARIABLE n = length(arr)
+VARIABLE suma
+FOR i=0 -> n
+    suma = suma + arr[i]
+PRINT suma
