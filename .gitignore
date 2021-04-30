@@ -1,0 +1,7 @@
+*.out
+.vscode/
+img/
+*.jpg
+*.jpeg
+*.png
+*.gif
